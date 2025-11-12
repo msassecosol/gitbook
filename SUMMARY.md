@@ -1,4 +1,5 @@
 # Table of contents
 
-* [To bude malé](README.md)
-* [To bude velké](to-bude-velke.md)
+* [Overview](business-rules.md)
+* [Management](brms-management.md)
+* [Rule evaluation](brms-evaluation.md)
