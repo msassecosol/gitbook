@@ -1,3 +1,4 @@
 # Table of contents
 
-* [Page](README.md)
+* [To bude malé](README.md)
+* [To bude velké](to-bude-velke.md)
